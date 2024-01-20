@@ -15,7 +15,7 @@ Throughout the project, the CNN architecture was tailored to effectively perform
 In summary, the project focused on developing a sophisticated CNN-based solution for face mask detection, encompassing not only the presence of a mask but also its type and proper wear, while actively working to eliminate biases in gender and age through strategic image augmentation methods.
 
 ## Requirements 
-* [Python](http://www.python.org) version 3.8 or greater;
+* [Python](http://www.python.org) version 3.8 or higher;
 * [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays;
 * [Matplotlib](http://matplotlib.sf.net), excellent plotting and graphing libraries;
 * [Pandas](http://pandas.pydata.org/), library to read files has a dataframe;
